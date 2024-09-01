@@ -1,0 +1,5 @@
+The sizes occupied by literals of following datatypes in bytes are as follows.
+
+1.int -> 4 bytes
+2.bool -> 1 byte
+3.float -> 4 byte
